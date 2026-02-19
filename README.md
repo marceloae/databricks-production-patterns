@@ -55,3 +55,14 @@ Provide reusable patterns commonly required in enterprise data platforms:
 ---
 
 ## Repository Structure
+
+/examples → Practical implementations
+/docs → Architecture and explanations
+/src → Reusable utilities
+
+
+---
+
+## Goal
+
+Help data engineers move from **notebooks that run** to **pipelines that operate reliably in production**.
