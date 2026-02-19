@@ -7,7 +7,6 @@ This repository focuses on real-world engineering problems such as reliability, 
 ---
 
 ## Purpose
-
 Provide reusable patterns commonly required in enterprise data platforms:
 
 - API ingestion at scale
@@ -45,8 +44,7 @@ Provide reusable patterns commonly required in enterprise data platforms:
 
 ---
 
-## ⚙️echnologies
-
+## Technologies
 - Databricks
 - Apache Spark (PySpark)
 - Delta Lake
@@ -55,7 +53,6 @@ Provide reusable patterns commonly required in enterprise data platforms:
 ---
 
 ## Repository Structure
-
 /examples → Practical implementations
 /docs → Architecture and explanations
 /src → Reusable utilities
@@ -64,5 +61,4 @@ Provide reusable patterns commonly required in enterprise data platforms:
 ---
 
 ## Goal
-
 Help data engineers move from **notebooks that run** to **pipelines that operate reliably in production**.
